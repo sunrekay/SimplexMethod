@@ -1,5 +1,4 @@
 ## Пример ввода данных:
-### Задание:
 ![Задание](https://github.com/sunrekay/SimplexMethod/blob/main/screenshots/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.jpg)
 
 ### Ввод в коде:
